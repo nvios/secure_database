@@ -1,6 +1,6 @@
 # Secure SQL Database CLI
 
-This is a simple Python script to create and interact with a password protected SQL database through a CLI. 
+This is a simple Python script can be used to create and interact with a password protected SQL database through a CLI. 
 
 The script also provides the option to change the password and basic error handling features.
 
