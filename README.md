@@ -9,3 +9,4 @@ The script also provides the option to change the password and basic error handl
 </p>
 
 ## Click <a href="https://nvios.github.io/luca_bontempi/"><strong>here</strong></a> to see my latest projects!
+### Latest POC: <a href="https://luca-bontempi-object-detection.web.app/"><strong>Live Object Detection</strong></a>
